@@ -121,7 +121,7 @@ spec:
 apiVersion: v1
 kind: Pod
 metadata:
-  name: rediscli-pod
+  name: redisclipod
   labels:
     app: rediscli
 spec:
